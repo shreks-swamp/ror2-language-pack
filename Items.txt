@@ -55,7 +55,7 @@
 	"ITEM_AACANNON_PICKUP": "AA Cannon pickup text.",
 	"ITEM_AACANNON_DESC": "AA Cannon description.",
  
-	"ITEM_CHAINLIGHTNING_NAME": "Ukulele",
+	"ITEM_CHAINLIGHTNING_NAME": "Statikk Shiv",
 	"ITEM_CHAINLIGHTNING_PICKUP": "...and his music was electric.",
 	"ITEM_CHAINLIGHTNING_DESC": "25% chance to fire chain lighting for 80% damage on up to 3 <style=cStack>(+2 per stack)</style> targets within 20m <style=cStack>(+2m per stack)</style>.",
 
