@@ -104,8 +104,8 @@
 	"ITEM_COOLDOWNONCRIT_PICKUP": "'Critical Strikes' reduce cooldowns by 1 second.",
 	"ITEM_COOLDOWNONCRIT_DESC": "Gain 5% critical chance. Critical strikes reduces all your cooldowns by 1.",
 
-	"ITEM_WARDONLEVEL_NAME": "Warbanner",
-	"ITEM_WARDONLEVEL_PICKUP": "Drop a Warbanner on leveling up, giving you great strength.",
+	"ITEM_WARDONLEVEL_NAME": "Banner of Command",
+	"ITEM_WARDONLEVEL_PICKUP": "Drop a Banner of Command on leveling up, giving you great strength.",
 	"ITEM_WARDONLEVEL_DESC": "On level up drop a banner that strengthens all allies within 16m <style=cStack>(+8m per stack)</style>. Raise attack and movemeent speed by 30%.",
 
 	"ITEM_WARCRYONCOMBAT_NAME": "Berzerker's Pauldron",
@@ -184,7 +184,7 @@
 	"ITEM_LUNARDAGGER_NAME": "Shaped Glass",
 	"ITEM_LUNARDAGGER_PICKUP": "Double your damage... <color=#FF7F7F>\BUT halve your health.</color>\n",
 	"ITEM_LUNARDAGGER_DESC": "Increase base damage by 100% <style=cStack>(+100% per stack)</style>. Reduce maximum health by 50% <style=cStack>(+50% per stack)</style>.",
-	"ITEM_LUNARDAGGER_LORE" : "<style=cMono>\n========================================\n====   MyBabel Machine Translator   ====\n====     [Version 12.45.1.009 ]   ======\n========================================\nTraining… <100000000 cycles>\nTraining… <100000000 cycles>\nTraining… <100000000 cycles>\nTraining… <50912157 cycles>\nPaused…\nDisplay partial result? Y/N\nY\n================================</style>\nPairings\n\nUnstructured glass, from the heart of the [Moon]. Sung out, in ethereal wisps, over the course of 3 cycles. Pause.\n\nWe fold time into its material - twice. Our time and <his>. A cost <he> was willing us to pay. Folded and shaped, with a god’s designs.\n \n<He> wields it, in one of many great hands. The time we injected is unfolded in <his> grasp. Outputs quicken - muscles compress twice. Twice as many intentions. Twice the ordered complexities, folded upon themselves. Loops loop back onto [?] in pairs. Time dependent functions. Pause.\n\n<He> sunders a construct into a thousand pieces.\n\nBut time is fair. Microtears begin to uncoil in pairs. Muscles begin to snap, twice as fast.  The cost of folded time. But <he> has plenty of time.\n\n<style=cMono>\n================================\nContinue training? Y/N\nY</style>\n",
+	"ITEM_LUNARDAGGER_LORE" : "<style=cMono>\n========================================\n====   MyBabel Machine Translator   ====\n====     [Version 12.45.1.009 ]   ======\n========================================\nTrainingï¿½ <100000000 cycles>\nTrainingï¿½ <100000000 cycles>\nTrainingï¿½ <100000000 cycles>\nTrainingï¿½ <50912157 cycles>\nPausedï¿½\nDisplay partial result? Y/N\nY\n================================</style>\nPairings\n\nUnstructured glass, from the heart of the [Moon]. Sung out, in ethereal wisps, over the course of 3 cycles. Pause.\n\nWe fold time into its material - twice. Our time and <his>. A cost <he> was willing us to pay. Folded and shaped, with a godï¿½s designs.\n \n<He> wields it, in one of many great hands. The time we injected is unfolded in <his> grasp. Outputs quicken - muscles compress twice. Twice as many intentions. Twice the ordered complexities, folded upon themselves. Loops loop back onto [?] in pairs. Time dependent functions. Pause.\n\n<He> sunders a construct into a thousand pieces.\n\nBut time is fair. Microtears begin to uncoil in pairs. Muscles begin to snap, twice as fast.  The cost of folded time. But <he> has plenty of time.\n\n<style=cMono>\n================================\nContinue training? Y/N\nY</style>\n",
 	"ITEM_GOLDONHIT_NAME": "Brittle Crown",
 	"ITEM_GOLDONHIT_PICKUP": "Gain gold on hit... <color=#FF7F7F>\BUT lose gold on getting hit.</color>\n",
 	"ITEM_GOLDONHIT_DESC": "30% chance on hit to gain 3 <style=cStack>(+3 per stack)</style> gold. Lose gold equal to the amount you are hit for OR lose % gold equal to the % maximum health you lost. Chooses the greater of the two.",
