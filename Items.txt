@@ -75,7 +75,7 @@
 	"ITEM_GHOSTONKILL_PICKUP": "Chance on killing an enemy to summon a ghost.",
 	"ITEM_GHOSTONKILL_DESC": "Killing enemies has a 10% chance to spawn a ghost of the killed enemy with 500% damage. Lasts 30s <style=cStack>(+30s per stack).</style>", 
 
-	"ITEM_MUSHROOM_NAME": "Bustling Fungus",
+	"ITEM_MUSHROOM_NAME": "Engineer's Mushy Stash",
 	"ITEM_MUSHROOM_PICKUP": "Heal all nearby allies after standing still for 2 seconds.",
 	"ITEM_MUSHROOM_DESC": "After standing still for 2 seconds, create a zone that heals for 4.5% <style=cStack>(+2.25% per stack)</style> of your health every second to all allies within 3m <style=cStack>(+1.5m per stack)</style>.", 
 
