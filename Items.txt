@@ -35,7 +35,7 @@
 	"ITEM_DAGGER_DESC": "Killing an enemy fires out 3 <style=cStack>(+3 per stack)</style> homing daggers that deal 150% base damage.", 
 	"ITEM_DAGGER_LORE": "The smell of sulfur fills the air.\r\n\r\n\"Oh god, they're so close. They have Hitchcock. Oh god.\"\r\n\r\n\"Grab the - the dagger. From my backpack. Quick.\"\r\n\r\n\"I-I don't... I got it. What the hell? This isn't gonna work, Marion. What the hell am I supposed to do with this against those...? They blew him into pieces - oh god.\"\r\n\r\n\"You have to... you have to kill me - ah! Kill me. Kill me with it.\"\r\n\r\n\"What? What the hell?\"\r\n\r\n\"Yeah - it's the only way. Please.\"\r\n\r\n\"What are you saying? Stop!\"\r\n\r\n\"It's a magic dagger. It'll save us. She will save us. But you have to kill me with it.\"\r\n\r\n\"Please don't... please don't make me. Oh god.\"\r\n\r\n\"Y-you have to. I've seen how this works. It's the only way - they're coming so close. You have to use it on me. Kill me.\"\r\n\r\n\"I'm so sorry Marion. I'm so so sorry. I don't think-\"\r\n\r\n\"Do it. Do it now. DO IT NOW! DO IT NOW! DO IT-\"",
 	
-	"ITEM_TOOTH_NAME": "Monster Tooth",
+	"ITEM_TOOTH_NAME": "Anal Beads",
 	"ITEM_TOOTH_PICKUP": "Drop a healing orb on kill.",
 	"ITEM_TOOTH_DESC": "Killing an enemy spawns a healing orb that heals for 4 <style=cStack>(+4 per stack)</style> health.", 
 
