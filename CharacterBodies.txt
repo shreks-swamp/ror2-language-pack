@@ -39,7 +39,7 @@
 	"ENGI_SPECIAL_DESCRIPTION" : "Place a turret that <style=cIsUtility>inherits all your items.</style> Fires a cannon for <style=cIsDamage>100% damage</style>. Can place up to 2.",
 	"ENGI_DESCRIPTION": "The Engineer is a unique class that requires planning and positioning to be successful.<style=cSub>\r\n\r\n< ! > Placing mines ahead of time can help cover flanks and tight corridors. \r\n\r\n< ! > The Engineer replies heavily on his Gauss Turrets - remember to place them in a location that is both safe and advantageous.\r\n \r\n< ! > His Bubble Shield can be a powerful tool against heavily telegraphed boss attacks - and it can protect your allies as well!\r\n\r\n< ! > Bouncing Grenades, while powerful, has a hard time hitting mobile targets. Try to keep your Turrets alive to deal with fast or flying monsters.\r\n<\/style>\r\n",
 	
-	"HUNTRESS_BODY_NAME": "Huntress",
+	"HUNTRESS_BODY_NAME": "Hanzo",
 	"HUNTRESS_PRIMARY_NAME": "Strafe",
 	"HUNTRESS_PRIMARY_DESCRIPTION" : "Fire a seeking arrow for 150% damage. <i>Can be used while sprinting.</i>",
 	"HUNTRESS_SECONDARY_NAME": "Laser Glaive",
@@ -48,7 +48,7 @@
 	"HUNTRESS_UTILITY_DESCRIPTION" : "<style=cIsUtility>Disappear</style> and <style=cIsUtility>teleport</style> forward.",
 	"HUNTRESS_SPECIAL_NAME": "Arrow Rain",
 	"HUNTRESS_SPECIAL_DESCRIPTION" : "Teleport into the sky. Target an area to rain arrows, <style=cIsUtility>slowing</style> all enemies and dealing <style=cIsDamage>225% damage per second.</style>",
-	"HUNTRESS_DESCRIPTION": "The Huntress is an extremely mobile but fragile survivor with a high damage output. <style=cSub>\r\n\r\n< ! > Remember that Strafe can be uniquely be used while sprinting, allowing you to move at high speeds while still taking out potential threats.\r\n\r\n< ! > Blink and Arrow Rain can be used to reposition closer or used as a dodge in a tight spot.\r\n\r\n< ! > Laser Glaive will take out pairs of tough targets quickly as it bounces between the two. \r\n\r\n< ! > Arrow Rain has extremely high damage output and also slows enemies inside, making it great for tough, fast enemies.<\/style>\r\n",
+	"HUNTRESS_DESCRIPTION": "Hanzo is an extremely mobile but fragile survivor with a high damage output. <style=cSub>\r\n\r\n< ! > Remember that Strafe can be uniquely be used while sprinting, allowing you to move at high speeds while still taking out potential threats.\r\n\r\n< ! > Blink and Arrow Rain can be used to reposition closer or used as a dodge in a tight spot.\r\n\r\n< ! > Laser Glaive will take out pairs of tough targets quickly as it bounces between the two. \r\n\r\n< ! > Arrow Rain has extremely high damage output and also slows enemies inside, making it great for tough, fast enemies.<\/style>\r\n",
 
 	"MAGE_BODY_NAME": "Artificer",
 	"MAGE_PRIMARY_NAME" : "Flame Bolt",
