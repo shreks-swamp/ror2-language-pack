@@ -79,7 +79,7 @@
 	"ITEM_MUSHROOM_PICKUP": "Heal all nearby allies after standing still for 2 seconds.",
 	"ITEM_MUSHROOM_DESC": "After standing still for 2 seconds, create a zone that heals for 4.5% <style=cStack>(+2.25% per stack)</style> of your health every second to all allies within 3m <style=cStack>(+1.5m per stack)</style>.", 
 
-	"ITEM_CROWBAR_NAME": "Crowbar",
+	"ITEM_CROWBAR_NAME": "Gordon's Crowbar",
 	"ITEM_CROWBAR_PICKUP": "Deal more damage to healthy enemies.",
 	"ITEM_CROWBAR_DESC": "Deal 150% <style=cStack>(+30% per stack)</style> damage to enemies above 90% health.",   
 
